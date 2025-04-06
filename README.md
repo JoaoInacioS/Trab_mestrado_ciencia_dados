@@ -1,1 +1,1 @@
-# Trab_mestrado_ciencia_dados
+# Alguns códigos de análise de dados, desenvolvidos durante o mestrado.
